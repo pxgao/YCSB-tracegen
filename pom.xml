@@ -144,6 +144,7 @@ LICENSE file.
     <module>rest</module>
     <module>riak</module>
     <module>s3</module>
+    <module>mycache</module>
     <module>solr</module>
     <module>solr6</module>
     <module>tarantool</module>
